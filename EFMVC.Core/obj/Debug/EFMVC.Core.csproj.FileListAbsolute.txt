@@ -1,0 +1,20 @@
+D:\projects\EFMVC\EFMVC.Core\bin\Debug\EFMVC.Core.dll
+D:\projects\EFMVC\EFMVC.Core\bin\Debug\EFMVC.Core.pdb
+D:\projects\EFMVC\EFMVC.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\EFMVC\EFMVC.Core\obj\Debug\EFMVC.Core.dll
+D:\projects\EFMVC\EFMVC.Core\obj\Debug\EFMVC.Core.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Core\bin\Debug\EFMVC.Core.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Core\bin\Debug\EFMVC.Core.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Core\obj\Debug\EFMVC.Core.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Core\obj\Debug\EFMVC.Core.pdb
+C:\EFMVC (1)\EFMVC\EFMVC.Core\bin\Debug\EFMVC.Core.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Core\bin\Debug\EFMVC.Core.pdb
+C:\EFMVC (1)\EFMVC\EFMVC.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\EFMVC (1)\EFMVC\EFMVC.Core\obj\Debug\EFMVC.Core.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Core\obj\Debug\EFMVC.Core.pdb
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Core\bin\Debug\EFMVC.Core.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Core\bin\Debug\EFMVC.Core.pdb
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Core\obj\Debug\EFMVC.Core.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Core\obj\Debug\EFMVC.Core.pdb

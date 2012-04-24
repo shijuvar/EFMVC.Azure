@@ -1,0 +1,28 @@
+D:\projects\EFMVC\EFMVC.CommandProcessor\bin\Debug\EFMVC.CommandProcessor.dll
+D:\projects\EFMVC\EFMVC.CommandProcessor\bin\Debug\EFMVC.CommandProcessor.pdb
+D:\projects\EFMVC\EFMVC.CommandProcessor\bin\Debug\EFMVC.Core.dll
+D:\projects\EFMVC\EFMVC.CommandProcessor\bin\Debug\EFMVC.Core.pdb
+D:\projects\EFMVC\EFMVC.CommandProcessor\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\EFMVC\EFMVC.CommandProcessor\obj\Debug\EFMVC.CommandProcessor.dll
+D:\projects\EFMVC\EFMVC.CommandProcessor\obj\Debug\EFMVC.CommandProcessor.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.CommandProcessor\bin\Debug\EFMVC.CommandProcessor.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.CommandProcessor\bin\Debug\EFMVC.CommandProcessor.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.CommandProcessor\bin\Debug\EFMVC.Core.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.CommandProcessor\bin\Debug\EFMVC.Core.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.CommandProcessor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.CommandProcessor\obj\Debug\EFMVC.CommandProcessor.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.CommandProcessor\obj\Debug\EFMVC.CommandProcessor.pdb
+C:\EFMVC (1)\EFMVC\EFMVC.CommandProcessor\bin\Debug\EFMVC.CommandProcessor.dll
+C:\EFMVC (1)\EFMVC\EFMVC.CommandProcessor\bin\Debug\EFMVC.CommandProcessor.pdb
+C:\EFMVC (1)\EFMVC\EFMVC.CommandProcessor\bin\Debug\EFMVC.Core.dll
+C:\EFMVC (1)\EFMVC\EFMVC.CommandProcessor\bin\Debug\EFMVC.Core.pdb
+C:\EFMVC (1)\EFMVC\EFMVC.CommandProcessor\obj\Debug\ResolveAssemblyReference.cache
+C:\EFMVC (1)\EFMVC\EFMVC.CommandProcessor\obj\Debug\EFMVC.CommandProcessor.dll
+C:\EFMVC (1)\EFMVC\EFMVC.CommandProcessor\obj\Debug\EFMVC.CommandProcessor.pdb
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.CommandProcessor\bin\Debug\EFMVC.CommandProcessor.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.CommandProcessor\bin\Debug\EFMVC.CommandProcessor.pdb
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.CommandProcessor\bin\Debug\EFMVC.Core.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.CommandProcessor\bin\Debug\EFMVC.Core.pdb
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.CommandProcessor\obj\Debug\ResolveAssemblyReference.cache
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.CommandProcessor\obj\Debug\EFMVC.CommandProcessor.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.CommandProcessor\obj\Debug\EFMVC.CommandProcessor.pdb
