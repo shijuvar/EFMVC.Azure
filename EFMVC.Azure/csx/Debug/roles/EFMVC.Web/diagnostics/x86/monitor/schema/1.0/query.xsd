@@ -61,6 +61,7 @@
       <xs:element name="OrderBy" type="xs:string" minOccurs="0" maxOccurs="1"/>
       <xs:element name="DeclareBlock" type="DeclareBlockClauseType" minOccurs="0" maxOccurs="1"/>
       <xs:element name="StatementBlock" type="xs:string" minOccurs="0" maxOccurs="1"/>
+      <xs:element name="Join" type="xs:string" minOccurs="0" maxOccurs="1"/>
     </xs:all>
   </xs:complexType>
 

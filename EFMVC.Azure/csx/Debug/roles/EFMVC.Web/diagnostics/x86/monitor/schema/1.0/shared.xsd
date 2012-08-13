@@ -523,6 +523,9 @@ NOTE: In MDS offset and queryDelay have the opposite meanings.  We should obsole
       <!-- Detect DoS clients -->
       <xs:enumeration value="DosDetect" />
 
+      <!-- Detect VM filter metrics -->
+      <xs:enumeration value="VfpMetrics" />
+
     </xs:restriction>
   </xs:simpleType>
 
@@ -533,9 +536,8 @@ NOTE: In MDS offset and queryDelay have the opposite meanings.  We should obsole
       <!-- Enumerates and logs the metric values, but doesn't check for discrepancies -->
       <xs:enumeration value="Query" />
 
-      <!-- Enumerate metric values and alert on unexpected values not present in AllowedValue
-           collection or missing values not present in the RequiredValue collection.
-      -->
+      <!-- Enumerate metric values and alert on unexpected values -->
+      
       <xs:enumeration value="CompareBaseline" />
 
       <!-- Enumerate metric values and diff this snapshot against previous snapshot and
@@ -545,14 +547,20 @@ NOTE: In MDS offset and queryDelay have the opposite meanings.  We should obsole
     </xs:restriction>
   </xs:simpleType>
 
+  <!-- The AnomalyCheck element has a name attribute specifying the rule name and -->
+  <!-- text content with the details of the rule -->
+  <xs:complexType name="EwsAnomalyCheckType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute name="name" type="xs:string" use="required" />
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+
   <!--
     Specifies settings for an EWS detection metric
-      AllowedValue - The collection of allowed values for the metric. All acceptable values
-          should be provided. Any detected values not present in this collection will trigger
-          an alert when using CompareBaseline mode. Values ignored in other modes.
-      RequiredValue - The collection of required values for the metric. Any value in this
-          collection not detected in a snapshot will trigger an alert when running in
-          CompareBaseline mode. Values ignored in other modes.
+      AnomalyCheck - A rule specification for performing an anomaly check. The EWS detector
+          takes care of parsing the rule.
       type - specifies the metric
       mode - specifies the detection mode
       intervalMillisecs - milliseconds to wait taking snapshots for reporting and/or diff'ing.
@@ -567,8 +575,7 @@ NOTE: In MDS offset and queryDelay have the opposite meanings.  We should obsole
   -->
   <xs:complexType name="EwsDetectorInfoType">
     <xs:sequence>
-      <xs:element name="AllowedValue" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
-      <xs:element name="RequiredValue" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name="AnomalyCheck" type="EwsAnomalyCheckType" minOccurs="0" maxOccurs="unbounded"/>
     </xs:sequence>
     <xs:attribute name="type" type="EwsDetectorType" use="required" />
     <xs:attribute name="mode" type="EwsDetectorMode" use="required" />
@@ -844,6 +851,8 @@ NOTE: In MDS offset and queryDelay have the opposite meanings.  We should obsole
   <xs:complexType name="AuthorizationPolicyType">
     <xs:sequence>
       <xs:element name="UserRole" type="UserRoleType" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name="OperationResources" type="xs:string" minOccurs="0" maxOccurs="1" />
+      <xs:element name="ClaimSets" type="xs:string" minOccurs="0" maxOccurs="1"/>      
     </xs:sequence>
   </xs:complexType>
 
@@ -851,7 +860,8 @@ NOTE: In MDS offset and queryDelay have the opposite meanings.  We should obsole
     <xs:sequence>
       <xs:element name="Accounts" type="AccountsType" minOccurs="0"/>
       <xs:element name="Claims" type="ClaimsType" minOccurs="0"/>
-      <xs:element name="ClientCerts" type="ClientCertsType" minOccurs="0"/>
+      <xs:element name="ClaimSets" type="xs:string" minOccurs="0" maxOccurs="1"/>
+      <xs:element name="ClientCerts" type="ClientCertsType" minOccurs="0"/>      
     </xs:sequence>
     <xs:attribute name="Name" type="xs:string" use="required"/>
   </xs:complexType>
@@ -895,6 +905,7 @@ NOTE: In MDS offset and queryDelay have the opposite meanings.  We should obsole
       <xs:enumeration value="Table"/>
       <xs:enumeration value="File"/>
       <xs:enumeration value="Directory"/>
+      <xs:enumeration value="NodeDiagnostics"/>
     </xs:restriction>
   </xs:simpleType>
 
@@ -907,6 +918,4 @@ NOTE: In MDS offset and queryDelay have the opposite meanings.  We should obsole
       <xs:enumeration value="Delete"/>
     </xs:restriction>
   </xs:simpleType>
-
-
 </xs:schema>

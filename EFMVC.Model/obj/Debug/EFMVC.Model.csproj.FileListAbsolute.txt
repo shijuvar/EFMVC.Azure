@@ -36,3 +36,13 @@ C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Model\bin\Debug\EntityFramework.xml
 C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Model\obj\Debug\ResolveAssemblyReference.cache
 C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Model\obj\Debug\EFMVC.Model.dll
 C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Model\obj\Debug\EFMVC.Model.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.Model\bin\Debug\EFMVC.Model.dll.config
+D:\GitHub\EFMVC.Azure\EFMVC.Model\bin\Debug\EFMVC.Model.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Model\bin\Debug\EFMVC.Model.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.Model\bin\Debug\EFMVC.Core.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Model\bin\Debug\EntityFramework.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Model\bin\Debug\EFMVC.Core.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.Model\bin\Debug\EntityFramework.xml
+D:\GitHub\EFMVC.Azure\EFMVC.Model\obj\Debug\EFMVC.Model.csprojResolveAssemblyReference.cache
+D:\GitHub\EFMVC.Azure\EFMVC.Model\obj\Debug\EFMVC.Model.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Model\obj\Debug\EFMVC.Model.pdb

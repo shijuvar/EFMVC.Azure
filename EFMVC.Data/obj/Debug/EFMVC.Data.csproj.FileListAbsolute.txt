@@ -46,3 +46,16 @@ C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EFMVC.Core.pdb
 C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\obj\Debug\ResolveAssemblyReference.cache
 C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\obj\Debug\EFMVC.Data.dll
 C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\obj\Debug\EFMVC.Data.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.Data\bin\Debug\EFMVC.Data.dll.config
+D:\GitHub\EFMVC.Azure\EFMVC.Data\bin\Debug\EFMVC.Data.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Data\bin\Debug\EFMVC.Data.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.Data\bin\Debug\EFMVC.Model.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Data\bin\Debug\EntityFramework.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Data\bin\Debug\EntityFramework.Migrations.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Data\bin\Debug\EFMVC.Core.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Data\bin\Debug\EFMVC.Model.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.Data\bin\Debug\EntityFramework.xml
+D:\GitHub\EFMVC.Azure\EFMVC.Data\bin\Debug\EFMVC.Core.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.Data\obj\Debug\EFMVC.Data.csprojResolveAssemblyReference.cache
+D:\GitHub\EFMVC.Azure\EFMVC.Data\obj\Debug\EFMVC.Data.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Data\obj\Debug\EFMVC.Data.pdb

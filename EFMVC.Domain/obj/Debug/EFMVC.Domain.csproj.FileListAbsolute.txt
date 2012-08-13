@@ -68,3 +68,20 @@ C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Domain\obj\Debug\GenerateResource.read.1.tlog
 C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Domain\obj\Debug\GenerateResource.write.1.tlog
 C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Domain\obj\Debug\EFMVC.Domain.dll
 C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Domain\obj\Debug\EFMVC.Domain.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\bin\Debug\EFMVC.Domain.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\bin\Debug\EFMVC.Domain.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\bin\Debug\EFMVC.CommandProcessor.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\bin\Debug\EFMVC.Core.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\bin\Debug\EFMVC.Data.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\bin\Debug\EFMVC.Model.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\bin\Debug\EntityFramework.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\bin\Debug\EFMVC.CommandProcessor.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\bin\Debug\EFMVC.Core.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\bin\Debug\EFMVC.Data.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\bin\Debug\EFMVC.Model.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\bin\Debug\EntityFramework.xml
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\obj\Debug\EFMVC.Domain.csprojResolveAssemblyReference.cache
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\obj\Debug\EFMVC.Domain.Properties.Resources.resources
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\obj\Debug\EFMVC.Domain.csproj.GenerateResource.Cache
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\obj\Debug\EFMVC.Domain.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Domain\obj\Debug\EFMVC.Domain.pdb

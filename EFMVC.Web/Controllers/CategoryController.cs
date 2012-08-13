@@ -8,6 +8,10 @@ using EFMVC.Web.Core.Extensions;
 using EFMVC.CommandProcessor.Dispatcher;
 using EFMVC.Data.Repositories;
 using EFMVC.Web.Core.ActionFilters;
+using EFMVC.Model;
+using Microsoft.ApplicationServer.Caching;
+using System;
+using EFMVC.Web.Caching;
 namespace EFMVC.Web.Controllers
 {
     [CompressResponse]
@@ -15,17 +19,30 @@ namespace EFMVC.Web.Controllers
     {
         private readonly ICommandBus commandBus;
         private readonly ICategoryRepository categoryRepository;
-        public CategoryController(ICommandBus commandBus, ICategoryRepository categoryRepository)
+        private readonly ICacheProvider cache;
+        public CategoryController(ICommandBus commandBus, ICategoryRepository categoryRepository,ICacheProvider cache)
         {
             this.commandBus = commandBus;
             this.categoryRepository = categoryRepository;
+            this.cache = cache;
         }       
-
         public ActionResult Index()
         {
-            var categories = categoryRepository.GetAll();
+            IEnumerable<Category> categories;
+            var cachedCategories=cache.Get("categories");
+
+            if (cachedCategories != null)
+            {
+                categories = cachedCategories as IEnumerable<Category>;
+            }
+            else
+            {
+                categories = categoryRepository.GetAll();
+                cache.Put("categories", categories);
+            }            
             return View(categories);
-        }       
+        }      
+        
         public ActionResult Details(int id)
         {
             return View();
@@ -54,7 +71,13 @@ namespace EFMVC.Web.Controllers
                if (ModelState.IsValid)
                {
                    var result = commandBus.Submit(command);
-                   if (result.Success) return RedirectToAction("Index");                 
+                   if (result.Success)
+                   {
+                       //updating data to Cache
+                       var categories = categoryRepository.GetAll();
+                       cache.Put("categories", categories);
+                       return RedirectToAction("Index");
+                   }
                }                
             }   
             //if fail

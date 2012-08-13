@@ -26,3 +26,10 @@ C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.CommandProcessor\bin\Debug\EFMVC.Core.pdb
 C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.CommandProcessor\obj\Debug\ResolveAssemblyReference.cache
 C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.CommandProcessor\obj\Debug\EFMVC.CommandProcessor.dll
 C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.CommandProcessor\obj\Debug\EFMVC.CommandProcessor.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.CommandProcessor\bin\Debug\EFMVC.CommandProcessor.dll
+D:\GitHub\EFMVC.Azure\EFMVC.CommandProcessor\bin\Debug\EFMVC.CommandProcessor.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.CommandProcessor\bin\Debug\EFMVC.Core.dll
+D:\GitHub\EFMVC.Azure\EFMVC.CommandProcessor\bin\Debug\EFMVC.Core.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.CommandProcessor\obj\Debug\EFMVC.CommandProcessor.csprojResolveAssemblyReference.cache
+D:\GitHub\EFMVC.Azure\EFMVC.CommandProcessor\obj\Debug\EFMVC.CommandProcessor.dll
+D:\GitHub\EFMVC.Azure\EFMVC.CommandProcessor\obj\Debug\EFMVC.CommandProcessor.pdb

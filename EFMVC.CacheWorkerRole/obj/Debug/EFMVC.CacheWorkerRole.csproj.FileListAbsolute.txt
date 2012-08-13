@@ -1,0 +1,10 @@
+D:\GitHub\EFMVC.Azure\EFMVC.CacheWorkerRole\bin\Debug\EFMVC.CacheWorkerRole.dll.config
+D:\GitHub\EFMVC.Azure\EFMVC.CacheWorkerRole\bin\Debug\EFMVC.CacheWorkerRole.dll
+D:\GitHub\EFMVC.Azure\EFMVC.CacheWorkerRole\bin\Debug\EFMVC.CacheWorkerRole.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.CacheWorkerRole\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\GitHub\EFMVC.Azure\EFMVC.CacheWorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+D:\GitHub\EFMVC.Azure\EFMVC.CacheWorkerRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\GitHub\EFMVC.Azure\EFMVC.CacheWorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+D:\GitHub\EFMVC.Azure\EFMVC.CacheWorkerRole\obj\Debug\EFMVC.CacheWorkerRole.csprojResolveAssemblyReference.cache
+D:\GitHub\EFMVC.Azure\EFMVC.CacheWorkerRole\obj\Debug\EFMVC.CacheWorkerRole.dll
+D:\GitHub\EFMVC.Azure\EFMVC.CacheWorkerRole\obj\Debug\EFMVC.CacheWorkerRole.pdb
