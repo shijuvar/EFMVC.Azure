@@ -12,7 +12,7 @@ Cache Providers - https://github.com/shijuvar/EFMVC.Azure/tree/master/EFMVC.Web/
 
 <b>Wiki Pages</b>
 
-[How to configure Windows Azure Caching Preview] (https://github.com/shijuvar/EFMVC.Azure/wiki/How-to-configure-Windows-Azure-Caching)
+* [How to configure Windows Azure Caching Preview] (https://github.com/shijuvar/EFMVC.Azure/wiki/How-to-configure-Windows-Azure-Caching)
 
 
 
