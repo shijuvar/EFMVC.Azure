@@ -7,7 +7,7 @@ Windows Azure Caching Preview
 -----------------------------
 
 Cache Worker Role Project - https://github.com/shijuvar/EFMVC.Azure/tree/master/EFMVC.CacheWorkerRole <br>
-Cache Cleint Project - https://github.com/shijuvar/EFMVC.Azure/tree/master/EFMVC.Web <br>
+Cache Client Project - https://github.com/shijuvar/EFMVC.Azure/tree/master/EFMVC.Web <br>
 Cache Providers - https://github.com/shijuvar/EFMVC.Azure/tree/master/EFMVC.Web/Caching <br>
 
 <b>Wiki Pages</b>
