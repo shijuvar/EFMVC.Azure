@@ -10,6 +10,6 @@ Wili Page - Configure Windows Azure Caching Preview https://github.com/shijuvar/
 
 Upcoming Features
 -----------------
-1.AutoScaling Windows Azure instances.<br>
-2. Windows Azure storage demos.<br>
+1. AutoScaling Windows Azure instances.
+2. Windows Azure storage demos.
 3. Hybrid Cloud scenarios.
