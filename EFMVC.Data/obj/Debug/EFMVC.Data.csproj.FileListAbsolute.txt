@@ -1,0 +1,62 @@
+D:\projects\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Data.dll
+D:\projects\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Data.pdb
+D:\projects\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Model.dll
+D:\projects\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Core.dll
+D:\projects\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Model.pdb
+D:\projects\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Core.pdb
+D:\projects\EFMVC\EFMVC.Data\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\EFMVC\EFMVC.Data\obj\Debug\EFMVC.Data.dll
+D:\projects\EFMVC\EFMVC.Data\obj\Debug\EFMVC.Data.pdb
+D:\projects\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Data.dll.config
+D:\projects\EFMVC\EFMVC.Data\bin\Debug\EntityFramework.Migrations.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Data.dll.config
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Data.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Data.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Model.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Data\bin\Debug\EntityFramework.Migrations.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Core.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Model.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Core.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Data\obj\Debug\EFMVC.Data.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Data\obj\Debug\EFMVC.Data.pdb
+C:\EFMVC (1)\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Data.dll.config
+C:\EFMVC (1)\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Data.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Data.pdb
+C:\EFMVC (1)\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Model.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Data\bin\Debug\EntityFramework.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Data\bin\Debug\EntityFramework.Migrations.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Core.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Model.pdb
+C:\EFMVC (1)\EFMVC\EFMVC.Data\bin\Debug\EntityFramework.xml
+C:\EFMVC (1)\EFMVC\EFMVC.Data\bin\Debug\EFMVC.Core.pdb
+C:\EFMVC (1)\EFMVC\EFMVC.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\EFMVC (1)\EFMVC\EFMVC.Data\obj\Debug\EFMVC.Data.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Data\obj\Debug\EFMVC.Data.pdb
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EFMVC.Data.dll.config
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EFMVC.Data.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EFMVC.Data.pdb
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EFMVC.Model.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EntityFramework.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EntityFramework.Migrations.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EFMVC.Core.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EFMVC.Model.pdb
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EntityFramework.xml
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EFMVC.Core.pdb
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\obj\Debug\EFMVC.Data.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Data\obj\Debug\EFMVC.Data.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EFMVC.Data.dll.config
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EFMVC.Data.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EFMVC.Data.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EFMVC.Model.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EntityFramework.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EFMVC.Core.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EFMVC.Model.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EntityFramework.xml
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Data\bin\Debug\EFMVC.Core.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Data\obj\Debug\EFMVC.Data.csprojResolveAssemblyReference.cache
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Data\obj\Debug\EFMVC.Data.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Data\obj\Debug\EFMVC.Data.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Data\obj\Debug\EFMVC.Data.Migrations.InitialCreate.resources
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Data\obj\Debug\EFMVC.Data.csproj.GenerateResource.Cache

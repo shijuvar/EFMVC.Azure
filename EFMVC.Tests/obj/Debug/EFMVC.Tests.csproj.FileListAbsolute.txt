@@ -1,0 +1,61 @@
+D:\projects\EFMVC\EFMVC.Tests\bin\Debug\EFMVC.Tests.dll
+D:\projects\EFMVC\EFMVC.Tests\bin\Debug\EFMVC.Tests.pdb
+D:\projects\EFMVC\EFMVC.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\EFMVC\EFMVC.Tests\obj\Debug\EFMVC.Tests.dll
+D:\projects\EFMVC\EFMVC.Tests\obj\Debug\EFMVC.Tests.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Tests\bin\Debug\EFMVC.Tests.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Tests\bin\Debug\EFMVC.Tests.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Tests\obj\Debug\EFMVC.Tests.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Tests\obj\Debug\EFMVC.Tests.pdb
+C:\EFMVC (1)\EFMVC\EFMVC.Tests\bin\Debug\EFMVC.Tests.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Tests\bin\Debug\EFMVC.Tests.pdb
+C:\EFMVC (1)\EFMVC\EFMVC.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\EFMVC (1)\EFMVC\EFMVC.Tests\obj\Debug\EFMVC.Tests.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Tests\obj\Debug\EFMVC.Tests.pdb
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Tests.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Tests.pdb
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Tests\obj\Debug\EFMVC.Tests.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Tests\obj\Debug\EFMVC.Tests.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Tests.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Tests.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\Moq.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\nunit.framework.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\Moq.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\Moq.xml
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\nunit.framework.xml
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\obj\Debug\EFMVC.Tests.csprojResolveAssemblyReference.cache
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\obj\Debug\EFMVC.Tests.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\obj\Debug\EFMVC.Tests.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.CommandProcessor.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Core.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Data.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Domain.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Model.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Web.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EntityFramework.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Web.Core.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\Autofac.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\Autofac.Integration.Mvc.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\System.Web.Http.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\System.Web.Optimization.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.CommandProcessor.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Core.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Data.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Domain.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Model.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Web.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EntityFramework.xml
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Web.Core.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\Autofac.xml
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\System.Web.Http.xml
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Tests.dll.config
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\AutoMapper.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\AutoMapper.xml

@@ -1,0 +1,57 @@
+D:\projects\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Web.Core.dll
+D:\projects\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Web.Core.pdb
+D:\projects\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Core.dll
+D:\projects\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Model.dll
+D:\projects\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Core.pdb
+D:\projects\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Model.pdb
+D:\projects\EFMVC\EFMVC.Web.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\EFMVC\EFMVC.Web.Core\obj\Debug\EFMVC.Web.Core.dll
+D:\projects\EFMVC\EFMVC.Web.Core\obj\Debug\EFMVC.Web.Core.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Web.Core.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Web.Core.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Core.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Model.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Core.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Model.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Web.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Web.Core\obj\Debug\EFMVC.Web.Core.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Web.Core\obj\Debug\EFMVC.Web.Core.pdb
+C:\EFMVC (1)\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Web.Core.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Web.Core.pdb
+C:\EFMVC (1)\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Core.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Model.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Web.Core\bin\Debug\EntityFramework.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Core.pdb
+C:\EFMVC (1)\EFMVC\EFMVC.Web.Core\bin\Debug\EFMVC.Model.pdb
+C:\EFMVC (1)\EFMVC\EFMVC.Web.Core\bin\Debug\EntityFramework.xml
+C:\EFMVC (1)\EFMVC\EFMVC.Web.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\EFMVC (1)\EFMVC\EFMVC.Web.Core\obj\Debug\EFMVC.Web.Core.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Web.Core\obj\Debug\EFMVC.Web.Core.pdb
+C:\EFMVC (1)\EFMVC\EFMVC.Web.Core\bin\Debug\Autofac.Configuration.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Web.Core\bin\Debug\Autofac.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Web.Core\bin\Debug\Autofac.Integration.Mvc.dll
+C:\EFMVC (1)\EFMVC\EFMVC.Web.Core\bin\Debug\Autofac.xml
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\EFMVC.Web.Core.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\EFMVC.Web.Core.pdb
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\EFMVC.Core.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\EFMVC.Model.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\EntityFramework.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\EFMVC.Core.pdb
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\EFMVC.Model.pdb
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\EntityFramework.xml
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Web.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Web.Core\obj\Debug\EFMVC.Web.Core.dll
+C:\EFMVC (1)\EFMVC_V1.Beta\EFMVC.Web.Core\obj\Debug\EFMVC.Web.Core.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\EFMVC.Web.Core.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\EFMVC.Web.Core.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\EFMVC.Core.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\EFMVC.Model.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\System.Web.Http.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\System.Net.Http.Formatting.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\EFMVC.Core.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\EFMVC.Model.pdb
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\System.Web.Http.xml
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Web.Core\bin\Debug\System.Net.Http.Formatting.xml
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Web.Core\obj\Debug\EFMVC.Web.Core.csprojResolveAssemblyReference.cache
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Web.Core\obj\Debug\EFMVC.Web.Core.dll
+D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Web.Core\obj\Debug\EFMVC.Web.Core.pdb

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1020]D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Tests.dll</TopNode>
+  <SelectedNode>[0-1020]D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Tests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1020]D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1021]EFMVC" Expanded="true" />
+    <Node UniqueName="[0-1022]EFMVC.Tests" Expanded="true" />
+    <Node UniqueName="[0-1023]EFMVC.Tests.Controllers" Expanded="true" />
+    <Node UniqueName="[0-1000]EFMVC.Tests.Controllers.AccountControllerTest" Expanded="true" />
+    <Node UniqueName="[0-1006]EFMVC.Tests.Controllers.CategoryControllerTest" Expanded="true" />
+    <Node UniqueName="[0-1011]EFMVC.Tests.Controllers.ExpenseControllerTest" Expanded="true" />
+    <Node UniqueName="[0-1017]EFMVC.Tests.Controllers.HomeControllerTest" Expanded="true" />
+  </Nodes>
+</VisualState>

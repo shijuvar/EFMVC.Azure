@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Tests.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-12-04" time="15:36:54">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.5466" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files\NUnit 2.6.2\bin" machine-name="MLB-L-KOCHI2" user="shijuv" user-domain="IN" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\EFMVC_V1.Beta (1)\EFMVC_V1.Beta\EFMVC.Tests\bin\Debug\EFMVC.Tests.dll" executed="True" result="Success" success="True" time="1.038" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="EFMVC" executed="True" result="Success" success="True" time="1.029" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="1.028" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Controllers" executed="True" result="Success" success="True" time="1.028" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="CategoryControllerTest" executed="True" result="Success" success="True" time="1.027" asserts="0">
+                    <results>
+                      <test-case name="EFMVC.Tests.Controllers.CategoryControllerTest.Index_Returns_Category_List" executed="True" result="Success" success="True" time="1.020" asserts="3" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
