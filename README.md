@@ -6,8 +6,6 @@ Windows Azure extensions for the EFMVC [http://efmvc.codeplex.com/] project
 Windows Azure Caching Preview 
 -----------------------------
 
-A detailed article on Windows Azure Caching Preview will be release on [DotNetCurry] (http://www.dotnetcurry.com/magazine/)  magazine
-
 Cache Worker Role Project - https://github.com/shijuvar/EFMVC.Azure/tree/master/EFMVC.CacheWorkerRole <br>
 Cache Client Project - https://github.com/shijuvar/EFMVC.Azure/tree/master/EFMVC.Web <br>
 Cache Providers - https://github.com/shijuvar/EFMVC.Azure/tree/master/EFMVC.Web/Caching <br>
