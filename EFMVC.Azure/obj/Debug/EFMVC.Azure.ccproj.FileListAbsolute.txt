@@ -166,3 +166,9 @@ D:\GitHub\EFMVC.Azure\EFMVC.Azure\obj\Debug\EFMVC.Web\bin\System.Web.WebPages.dl
 D:\GitHub\EFMVC.Azure\EFMVC.Azure\obj\Debug\EFMVC.Web\bin\System.Web.WebPages.Razor.dll
 D:\GitHub\EFMVC.Azure\EFMVC.Azure\obj\Debug\EFMVC.Web\bin\System.Web.WebPages.Razor.xml
 D:\GitHub\EFMVC.Azure\EFMVC.Azure\obj\Debug\EFMVC.Web\bin\System.Web.WebPages.xml
+D:\GitHub\EFMVC.Azure\EFMVC.Azure\obj\Debug\EFMVC.CacheWorkerRole\EFMVC.CacheWorkerRole.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Azure\obj\Debug\EFMVC.CacheWorkerRole\EFMVC.CacheWorkerRole.dll.config
+D:\GitHub\EFMVC.Azure\EFMVC.Azure\obj\Debug\EFMVC.CacheWorkerRole\EFMVC.CacheWorkerRole.pdb
+D:\GitHub\EFMVC.Azure\EFMVC.Azure\obj\Debug\EFMVC.CacheWorkerRole\Microsoft.WindowsAzure.Configuration.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Azure\obj\Debug\EFMVC.CacheWorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
+D:\GitHub\EFMVC.Azure\EFMVC.Azure\obj\Debug\EFMVC.CacheWorkerRole\Microsoft.WindowsAzure.StorageClient.dll

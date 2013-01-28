@@ -19,6 +19,8 @@ Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "EFMVC.Azure", "EFMVC.Azure\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFMVC.Web.API", "EFMVC.Web.API\EFMVC.Web.API.csproj", "{9472CCE9-DF18-45B9-8506-A2586D4B299B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFMVC.CacheWorkerRole", "EFMVC.CacheWorkerRole\EFMVC.CacheWorkerRole.csproj", "{D535A389-6B8C-460B-B83A-F54EC599A3DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{9472CCE9-DF18-45B9-8506-A2586D4B299B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9472CCE9-DF18-45B9-8506-A2586D4B299B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9472CCE9-DF18-45B9-8506-A2586D4B299B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D535A389-6B8C-460B-B83A-F54EC599A3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D535A389-6B8C-460B-B83A-F54EC599A3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D535A389-6B8C-460B-B83A-F54EC599A3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D535A389-6B8C-460B-B83A-F54EC599A3DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

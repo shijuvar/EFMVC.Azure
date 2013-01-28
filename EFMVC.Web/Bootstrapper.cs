@@ -9,6 +9,7 @@ using EFMVC.Data.Repositories;
 using EFMVC.Web.Core.Authentication;
 using System.Web.Http;
 using EFMVC.Web.Mappers;
+using EFMVC.Web.Caching;
 namespace EFMVC.Web
 {
     public static class Bootstrapper
@@ -25,6 +26,7 @@ namespace EFMVC.Web
             builder.RegisterType<DefaultCommandBus>().As<ICommandBus>().InstancePerHttpRequest();
             builder.RegisterType<UnitOfWork>().As<IUnitOfWork>().InstancePerHttpRequest();
             builder.RegisterType<DatabaseFactory>().As<IDatabaseFactory>().InstancePerHttpRequest();
+            builder.RegisterType<AzureCacheProvider>().As<ICacheProvider>().InstancePerHttpRequest();
             builder.RegisterAssemblyTypes(typeof(CategoryRepository).Assembly)
             .Where(t => t.Name.EndsWith("Repository"))
             .AsImplementedInterfaces().InstancePerHttpRequest();          

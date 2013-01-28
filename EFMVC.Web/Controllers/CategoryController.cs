@@ -10,6 +10,7 @@ using EFMVC.Data.Repositories;
 using EFMVC.Web.Core.ActionFilters;
 using AutoMapper;
 using EFMVC.Model;
+using EFMVC.Web.Caching;
 namespace EFMVC.Web.Controllers
 {
     [CompressResponse]
@@ -17,15 +18,39 @@ namespace EFMVC.Web.Controllers
     {
         private readonly ICommandBus commandBus;
         private readonly ICategoryRepository categoryRepository;
+        /************* The below commented code for Windows Azure Caching ****************
+        //----------------------------------------------------------------------------------
+        //private readonly ICacheProvider cache;
+        //public CategoryController(ICommandBus commandBus, ICategoryRepository categoryRepository, ICacheProvider cacheProvider)
+        //{
+        //    this.commandBus = commandBus;
+        //    this.categoryRepository = categoryRepository;
+        //    this.cache = cacheProvider;
+        //}
+         */
         public CategoryController(ICommandBus commandBus, ICategoryRepository categoryRepository)
         {
             this.commandBus = commandBus;
-            this.categoryRepository = categoryRepository;
+            this.categoryRepository = categoryRepository;           
         }
-
         public ActionResult Index()
         {
-            var categories = categoryRepository.GetAll();
+            //Get cached data from Cache if the data exist, 
+            //IEnumerable<Category> categories = null;
+            //var cachedCategories = cache.Get("categories");
+
+            //if (cachedCategories != null)
+            //{
+            //    categories = cachedCategories as IEnumerable<Category>;
+            //}
+            //else
+            //{
+            //    //Data from Database
+            //    categories = categoryRepository.GetAll().ToList();
+            //    if (categories != null)
+            //        cache.Put("categories", categories);
+            //}
+           var categories = categoryRepository.GetAll().ToList();
             return View(categories);
         }
         public ActionResult Details(int id)
@@ -55,7 +80,11 @@ namespace EFMVC.Web.Controllers
                 if (ModelState.IsValid)
                 {
                     var result = commandBus.Submit(command);
-                    if (result.Success) return RedirectToAction("Index");
+                    if (result.Success) {
+                        var categories = categoryRepository.GetAll().ToList();
+                        //cache.Put("categories", categories);
+                        return RedirectToAction("Index");
+                    }
                 }
             }
             //if fail
@@ -70,6 +99,7 @@ namespace EFMVC.Web.Controllers
             var command = new DeleteCategoryCommand { CategoryId = id };
             var result = commandBus.Submit(command);
             var categories = categoryRepository.GetAll();
+            //cache.Put("categories", categories);
             return PartialView("_CategoryList", categories);
         }
     }

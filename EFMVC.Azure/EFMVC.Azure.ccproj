@@ -38,6 +38,14 @@
     <ServiceConfiguration Include="ServiceConfiguration.Cloud.cscfg" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\EFMVC.CacheWorkerRole\EFMVC.CacheWorkerRole.csproj">
+      <Name>EFMVC.CacheWorkerRole</Name>
+      <Project>{d535a389-6b8c-460b-b83a-f54ec599a3db}</Project>
+      <Private>True</Private>
+      <RoleType>Worker</RoleType>
+      <RoleName>EFMVC.CacheWorkerRole</RoleName>
+      <UpdateDiagnosticsConnectionStringOnPublish>True</UpdateDiagnosticsConnectionStringOnPublish>
+    </ProjectReference>
     <ProjectReference Include="..\EFMVC.Web\EFMVC.Web.csproj">
       <Name>EFMVC.Web</Name>
       <Project>{169afe38-1ca2-4624-bdc4-78c6653b04bd}</Project>
